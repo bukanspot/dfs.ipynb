@@ -1,3 +1,3 @@
 # Hi
-code with google colabs
-Graph with diagram.io
+* code with google colabs
+* Graph with diagram.io
